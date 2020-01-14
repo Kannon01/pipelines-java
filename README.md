@@ -1,4 +1,4 @@
-[![Build Status](https://kannonprime.visualstudio.com/Test_Project01/_apis/build/status/Kannon01.pipelines-java?branchName=master)](https://kannonprime.visualstudio.com/Test_Project01/_build/latest?definitionId=1&branchName=master)
+https://kannonprime.visualstudio.com/Test_Project01/_apis/build/status/Kannon01.pipelines-java?branchName=master
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
